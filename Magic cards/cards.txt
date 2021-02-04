@@ -1,0 +1,47 @@
+Wisp,0 1 1
+Elf,1 1 1
+Goldshire,1 1 2 shield
+ShieldMan,1 0 4
+Morkle,1 2 1 
+Boar,1 1 1 fast
+Raptor,2 3 2
+BlueMorkle,2 2 1 fast
+Chicken,2 1 1 LW-S/1/1
+MorkleHunter,2 2 1 SS-S/1/1
+Grunt,2 2 2 shield
+Novice,2 1 1 SS-D/1
+Croc,2 2 3 
+Hoarder,2 2 1 LW-D/1
+Grizzler,3 3 3 shield
+Rager,3 5 1
+Ape,3 1 4 shield
+Cleric,3 3 2 SS-B/1/1
+Hunter,3 2 3 SS-S/1/1
+Harvester,3 2 3 LW-S/2/1
+Rider,3 3 1 fast
+Yeti,4 4 5
+Mechanic,4 2 4 SS-S/2/1
+Inventor,4 2 4 SS-D/1
+Warden,4 1 7 shield
+Turt,4 2 4
+Masta,4 3 5 shield
+Knight,4 2 5 fast
+Bodyguard,5 5 4 shield
+Ogre,6 6 7 
+LootFinder,6 5 5 SS-D/2
+Lord,6 6 5 shield
+Rocketeer,6 5 2 fast
+Hound,7 9 5 
+Golem,7 7 7
+Walker,8 8 9 
+Giant,8 7 8 shield
+Splitter,8 4 4 SS-S/4/4
+MarsWalker,9 9 9 
+LootKing,9 4 4 SS-D/4
+Dragon,9 8 10 
+Shapeshifter,10 6 6 SS-S/5/5
+DragonKing,9 9 9
+
+
+
+
